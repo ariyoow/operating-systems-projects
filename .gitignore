@@ -1,0 +1,21 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Java
+*.class
+
+# Build outputs
+out/
+target/
+build/
+
+# OS / system
+.DS_Store
+
+# binaries
+*.jar
+
+# logs
+*.log
